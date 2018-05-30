@@ -923,7 +923,7 @@ public enum FontType: FontProtocol {
             fontName = "map-icons"
             break
         case .googleMaterialDesign(_):
-            fontName = "MaterialIcons-Regular"
+            fontName = "Material-Design-Iconic-Font"
             break
         case .openIconic(_):
             fontName = "open-iconic"
@@ -966,7 +966,7 @@ public enum FontType: FontProtocol {
             fileName = "MapIcons"
             break
         case .googleMaterialDesign(_):
-            fileName = "MaterialIcons"
+            fileName = "material-design-iconic-font-v2.2.0"
             break
         case .openIconic(_):
             fileName = "OpenIconic"
@@ -1012,7 +1012,7 @@ public enum FontType: FontProtocol {
             familyName = "map-icons"
             break
         case .googleMaterialDesign(_):
-            familyName = "Material Icons"
+            familyName = "Material-Design-Iconic-Font"
             break
         case .state(_):
             familyName = "StateFace"
